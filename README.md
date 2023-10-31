@@ -7,15 +7,18 @@
     <br />🌱 If you want to know more about me, please visit my <a href="https://www.linkedin.com/in/maiqi-hou-16061624b/">Linkedin</a>
     <br />
   </samp>
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLeoF&layout=compact&theme=buefy&hide_border=true" />
- #### :computer: Programming languages and tools:
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
- <br />
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
+ <samp>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLeoF&layout=compact&theme=buefy&hide_border=true" />
+ </samp>
+  
+ <samp>
+  #### :computer: Programming languages and tools:
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+ </samp>
 </p>
