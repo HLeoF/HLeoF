@@ -10,7 +10,8 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLeoF&layout=compact&theme=buefy&hide_border=true" />
   <br />
-  
+</p>
+<p aligen = "center">
   #### :computer: Programming languages and tools:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
