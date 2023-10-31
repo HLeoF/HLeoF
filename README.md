@@ -12,7 +12,7 @@
   <br />
 </p>
 <p aligen = "center">
-  <br/>
+  <br><br />
   ####:computer: Programming languages and tools:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
