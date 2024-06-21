@@ -9,18 +9,8 @@
 - 💬 Ask me about question on [Gmail](mailto:hmqf9819@gmail.com)/[Outlook](mailto:maiqi.hou@colorado.edu)
 - ⚡ Study/Work Field: Data Analysis📊, LLM
 
-<img align="right" alt="img" src="https://github.com/HLeoF/HLeoF/blob/main/IMG_0344.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/HLeoF/HLeoF/blob/main/IMG_0344.jpg" width="45%" height="auto" />
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
