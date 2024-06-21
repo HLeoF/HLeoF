@@ -9,7 +9,7 @@
 - 💬 Ask me about question on [Gmail](mailto:hmqf9819@gmail.com)/[Outlook](mailto:maiqi.hou@colorado.edu)
 - ⚡ Study/Work Field: Data Analysis📊, LLM
 
-<img align="right" alt="img" src="https://github.com/HLeoF/HLeoF/blob/main/IMG_0344.jpg" width="45%" height="auto" />
+<img align="right" alt="img" src="https://github.com/HLeoF/HLeoF/blob/main/IMG_0344.jpg" width="50%" height="auto" />
 
 
 #### :computer: Programming languages and tools: 
