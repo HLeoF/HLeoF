@@ -1,26 +1,41 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br />
-  <samp>
-    😆 Hey! Welcome to my profile
-    <br />
-    <br />🌱 If you want to know more about me, please visit my <a href="https://www.linkedin.com/in/maiqi-hou-16061624b/">Linkedin</a>
-    <br />
-  </samp>
+### Hi there 👋 
+### This is Maiqi Hou (侯劢祺)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLeoF&layout=compact&theme=buefy&hide_border=true" />
-  <br />
-  <br><br />
-  :computer: Programming languages and tools:
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="5%" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png"></code>
-  <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
-  <br />
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
+[![Github](https://github.com/HLeoF)
+[![Linkedin](https://www.linkedin.com/in/MaiqiH/)
+[![MyBlogs](https://hleof.github.io/)
+
+Welcome to my Github page! I am Maiqi and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
+
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Engineering Master Degree  
+- Taking online courses about Data Science and Machine Learning 
+- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
+
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
