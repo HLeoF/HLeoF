@@ -1,6 +1,8 @@
 ### Hi there 👋 
-### This is Maiqi Hou (侯劢祺)
+
 <img align="right" alt="img" src="https://github.com/HLeoF/HLeoF/blob/main/IMG_0344.jpg" width="50%" height="auto" />
+
+### This is Maiqi Hou (侯劢祺)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HLeoF)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MaiqiH/)
@@ -9,8 +11,6 @@
 - 🌱 Currently working in Boulder, Colorado, USA.
 - 💬 Ask me about question on [Gmail](mailto:hmqf9819@gmail.com)/[Outlook](mailto:maiqi.hou@colorado.edu)
 - ⚡ Study/Work Field: Data Analysis📊, LLM
-
-
 
 
 #### :computer: Programming languages and tools: 
