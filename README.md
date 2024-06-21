@@ -7,7 +7,7 @@
 - A Data Science Master Student.
 - 🌱 Currently working in Boulder, Colorado, USA.
 - 💬 Ask me about question on [Gmail](mailto:hmqf9819@gmail.com)/[Outlook](mailto:maiqi.hou@colorado.edu)
-- ⚡ Study/Work Field: Data Analysis📊, Large Language Model(LLM)
+- ⚡ Study/Work Field: Data Analysis📊, LLM
 
 <img align="right" alt="img" src="" width="50%" height="auto" />
 
