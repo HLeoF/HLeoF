@@ -1,5 +1,6 @@
 ### Hi there 👋 
 ### This is Maiqi Hou (侯劢祺)
+<img align="right" alt="img" src="https://github.com/HLeoF/HLeoF/blob/main/IMG_0344.jpg" width="50%" height="auto" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HLeoF)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MaiqiH/)
@@ -9,7 +10,7 @@
 - 💬 Ask me about question on [Gmail](mailto:hmqf9819@gmail.com)/[Outlook](mailto:maiqi.hou@colorado.edu)
 - ⚡ Study/Work Field: Data Analysis📊, LLM
 
-<img align="right" alt="img" src="https://github.com/HLeoF/HLeoF/blob/main/IMG_0344.jpg" width="50%" height="auto" />
+
 
 
 #### :computer: Programming languages and tools: 
@@ -29,4 +30,3 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
