@@ -1,3 +1,6 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<h1 align="center">👋 cout << "Hi there" << endl; </h1> 
+
 ### Hi there 👋 
 
 <img align="right" alt="img" src="https://github.com/HLeoF/HLeoF/blob/main/IMG_0344.jpg" width="50%" height="auto" />
