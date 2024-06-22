@@ -13,6 +13,7 @@
 - ⚡ Study/Work Field: Data Analysis📊, LLM
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=HLeoF&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLeoF&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" />
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -29,3 +30,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+### 关于我
+- [My Blogs](https://hleof.github.io/)
