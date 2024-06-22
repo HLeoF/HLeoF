@@ -12,7 +12,7 @@
 - 💬 Ask me about question on [Gmail](mailto:hmqf9819@gmail.com)/[Outlook](mailto:maiqi.hou@colorado.edu)
 - ⚡ Study/Work Field: Data Analysis📊, LLM
 
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=HLeoF&show_icons=true&hide_border=true" />
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
